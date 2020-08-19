@@ -207,7 +207,7 @@
 	"ITEM_BEETLEGLAND_LORE": "\"Yeah, uh, Kaitlin? Let me know if you copy.\"\r\n\r\n\"I copy. What's up?\"\r\n\r\n\"I've made friends? I don't know. \"\r\n\r\n\"What? \"\r\n\r\n\"The giant bug we killed earlier - well, the corpse seemed to attract a bunch of nasties. I was on my way to clean them up when I realized they were... waiting? Confused, maybe. Anyways, I was walking up to them to get rid of em, and strangely enough they seemed passive. The same bugs that gave me that concussion yesterday, and-\"\r\n\r\n\"What?! Are you okay? \"\r\n\r\n\"Huh? Yeah, I'm fine. Anyways, I felt bad killin' them since they seemed all... inert and such. So I just kinda left and they've been following me ever since. Real weird. Anyways, I guess I've made some friends. I wonder what they eat... do they eat? Since they don't have any mouths that I-\"\r\n\r\n\"Rich, stop! Please don't bring them back to camp! \"\r\n\r\n\"Oh, well uh...I could - Junior, stop! Leave your brother alone! \"",
 
 	"ITEM_SPRINTBONUS_NAME": "Bonk! Atomic Punch: Blutonium Flavor",
-	"ITEM_SPRINTBONUS_PICKUP": "Sprint faster.",
+	"ITEM_SPRINTBONUS_PICKUP": "MOVE FAST, EAT ASS",
 	"ITEM_SPRINTBONUS_DESC": "<style=cIsUtility>Sprint speed</style> is improved by <style=cIsUtility>30%</style> <style=cStack>(+20% per stack)</style>.",
 	"ITEM_SPRINTBONUS_LORE" : "Order: NR-G Sports Soda (400)\r\nTracking Number: 49******\r\nEstimated Delivery: 03\/12\/2056\r\nShipping Method:  Standard\r\nShipping Address: Venetian Health & Public Services, Ridgelake, Venus\r\nShipping Details:\r\n\r\nYeah, so, uh this is the um, the energy drink that people were mixing during that disaster in Majora Minora a few weeks ago. \r\n\r\nA quick toxicology test on some of the victims has come back positive for um... all kinds of stuff, really. Methadone, phencyclidine, tetrahydrocannabinol, a variety of opiates, benzodiazepines, barbiturates, amphetamines... the list just goes on and on and on.\r\n\r\nRadical Drinks is insisting that NONE of those were from their energy drink - which I find pretty uh, unlikely. Maybe they REALLY know how to party in Violet Heights, huh?\r\n",
 	
@@ -249,8 +249,8 @@
 	"ITEM_SLOWONHIT_DESC": "<style=cIsUtility>Slow</style> enemies on hit for <style=cIsUtility>-60% movement speed</style> for <style=cIsUtility>2s</style> <style=cStack>(+2s per stack)</style>.",
 	"ITEM_SLOWONHIT_LORE": "Order: Chronobauble\r\nTracking Number: 99******\r\nEstimated Delivery: 03\/03\/2066\r\nShipping Method: Priority\r\nShipping Address: 9042 Pvt. Drive, Yustik Plaza, Mercury\r\nShipping Details:\r\n\r\nWeren't you just a kid? Summer break feels like it was just so recent - but it's been 10 years, hasn't it? Life moves faster and faster as you get older - less moments to remember, to cement you in time. I don't even remember being 25. How did I forget an entire year?\r\n\r\nAnyways - I found this in a trinket shop on Mercury. A chronobauble - the seller said something about special relativity, real heavy distortions or something - I didn't really get it. It's supposed to slow down time around it. Right.\r\n\r\nAnyways, I'm shipping this to myself - to arrive in 10 years. A gift, from me to me. A reminder to make memories, to slow down a bit. 10 years will pass so quick - try to remember them! You've got to put effort in life!\r\n",
 
-	"ITEM_EXTRALIFE_NAME": "Pooh's Satanic Horcrux",
-	"ITEM_EXTRALIFE_PICKUP": "Cheat death. Consumed on use.",
+	"ITEM_EXTRALIFE_NAME": "Death is a concept invented by the Jedi",
+	"ITEM_EXTRALIFE_PICKUP": "I don't even know how to spell it.",
 	"ITEM_EXTRALIFE_DESC": "<style=cIsUtility>Upon death</style>, this item will be <style=cIsUtility>consumed</style> and you will <style=cIsHealing>return to life</style> with <style=cIsHealing>3 seconds of invulnerability</style>.",
 	
 	"ITEM_EXTRALIFECONSUMED_NAME": "Looks like all those offerings to the lord of darkness paid off",

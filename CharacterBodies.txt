@@ -12,7 +12,7 @@
 	"ELITE_MODIFIER_HAUNTED" : "Sparkly {0}",
 
 	//[CHARACTER]
-	"COMMANDO_BODY_NAME": "Generic Man",
+	"COMMANDO_BODY_NAME": "Rootin' Tootin' Putin",
 	"COMMANDO_PRIMARY_NAME": "Shoot Things",
 	"COMMANDO_PRIMARY_DESCRIPTION" : "Shoot twice for <style=cIsDamage>2x90% damage</style>.",
 	"COMMANDO_SECONDARY_NAME": "Shoot More, I Guess",
@@ -21,7 +21,7 @@
 	"COMMANDO_SECONDARY_ALT1_DESCRIPTION" : "Fire two close-range blasts that deal <style=cIsDamage>8x200% damage</style> total.",
 	"COMMANDO_UTILITY_NAME": "Rolling. Just, rolling.",
 	"COMMANDO_UTILITY_DESCRIPTION" : "<style=cIsUtility>Roll</style> a short distance.",
-	"COMMANDO_SPECIAL_NAME": "Shooting fast, okay? Are we done yet?",
+	"COMMANDO_SPECIAL_NAME": "So, anyway, I started blasting",
 	"COMMANDO_SPECIAL_DESCRIPTION" : "Fire rapidly, <style=cIsDamage>stunning</style> enemies for <style=cIsDamage>6x100% damage</style>.",
 	"COMMANDO_SPECIAL_ALT1_NAME": "Grenades, I don't know. Whatever.",
 	"COMMANDO_SPECIAL_ALT1_DESCRIPTION" : "Throw a grenade that explodes for <style=cIsDamage>175% damage</style>. Deals <style=cIsDamage>4x</style> damage in the center of the explosion. Can hold up to 2.",
@@ -31,15 +31,15 @@
 
 	"MERC_BODY_NAME": "BIG FAT FUCKING ASSHOLE",
 	"MERC_PRIMARY_NAME": "Lightsaber",
-	"MERC_PRIMARY_DESCRIPTION" : "Slice in front for <style=cIsDamage>130% damage</style>. Every 3rd hit strikes in a greater area for <style=cIsDamage>300% damage</style>.",
+	"MERC_PRIMARY_DESCRIPTION" : "While you were partying, I searched for <style=cIsDamage>the Teleporter.</style>",
 	"MERC_SECONDARY_NAME": "Fucking Tornado",
-	"MERC_SECONDARY_DESCRIPTION" : "Quickly slice horizontally twice, dealing <style=cIsDamage>2x200% damage</style>. If airborne, slice vertically instead.",
+	"MERC_SECONDARY_DESCRIPTION" : "While you were having premarital sex, I activated <style=cIsDamage>the Teleporter.</style>",
 	"MERC_SECONDARY_ALT1_NAME": "ONE THOUSAND TIMES FOLDED JAPAN STEEL",
 	"MERC_SECONDARY_ALT1_DESCRIPTION" : "Unleash a slicing uppercut, dealing <style=cIsDamage>450% damage</style> and sending you airborne.",
 	"MERC_UTILITY_NAME": "Naruto Run",
-	"MERC_UTILITY_DESCRIPTION" : "Dash forward, <style=cIsUtility>stunning</style> enemies for <style=cIsDamage>300% damage</style>. If you hit an enemy, <style=cIsDamage>you can dash again</style>, up to <style=cIsDamage>3</style> total.",
+	"MERC_UTILITY_DESCRIPTION" : "While you wasted your days at the gym in pursuit of vanity, I proceeded through <style=cIsDamage>the Teleporter.</style>",
 	"MERC_SPECIAL_NAME": "Enter the Sword Dimension",
-	"MERC_SPECIAL_DESCRIPTION" : "Target the nearest enemy, attacking them for <style=cIsDamage>110% damage</style> repeatedly. <style=cIsUtility>You cannot be hit for the duration</style>.",
+	"MERC_SPECIAL_DESCRIPTION" : "And now that the world is on fire, and the lemurians are at the gate, you have the audacity to come to me for help?",
 	"MERC_SPECIAL_ALT1_NAME": "Farts",
 	"MERC_SPECIAL_ALT1_DESCRIPTION" : "Fire a wind of blades that attack up to <style=cIsDamage>3</style> enemies for <style=cIsDamage>8x100% damage</style>.",
 
