@@ -68,7 +68,7 @@
 	"ITEM_GHOSTONKILL_PICKUP": "Chance on killing an enemy to summon a ghost.",
 	"ITEM_GHOSTONKILL_DESC": "Killing enemies has a <style=cIsDamage>10%</style> chance to <style=cIsDamage>spawn a ghost</style> of the killed enemy with <style=cIsDamage>500%</style> damage. Lasts <style=cIsDamage>30s</style> <style=cStack>(+30s per stack)</style>.", 
 
-	"ITEM_MUSHROOM_NAME": "Bustle. BUSTLE. B U S T L E",
+	"ITEM_MUSHROOM_NAME": "Opium for Engineers",
 	"ITEM_MUSHROOM_PICKUP": "Heal all nearby allies after standing still for 2 seconds.",
 	"ITEM_MUSHROOM_DESC": "After standing still for <style=cIsHealing>2</style> seconds, create a zone that <style=cIsHealing>heals</style> for <style=cIsHealing>4.5%</style> <style=cStack>(+2.25% per stack)</style> of your <style=cIsHealing>health</style> every second to all allies within <style=cIsHealing>3m</style> <style=cStack>(+1.5m per stack)</style>.", 
 
