@@ -8,7 +8,7 @@
 	"TELEPORTER_BEGIN_CONTEXT": "Activate Teleporter..?",
 	"TELEPORTER_END_CONTEXT": "Enter Teleporter",
 
-	"BARREL1_NAME": "Barrel",
+	"BARREL1_NAME": "Free Quatloos",
 	"BARREL1_CONTEXT": "Open barrel",
 	
 	"LOCKBOX_NAME": "Rusty Lockbox",
@@ -75,12 +75,16 @@
 	"BAZAAR_CAULDRON_NAME" : "Cauldron",
 	"BAZAAR_CAULDRON_CONTEXT" : "Reforge",
 
-	"NEWT_STATUE_NAME" : "Newt Altar",
+	"NEWT_STATUE_NAME" : "Happy Frog Buddha",
 	"NEWT_STATUE_CONTEXT" : "Donate to Newt Altar",
 
 	"MSOBELISK_NAME" : "Obelisk",
-	"MSOBELISK_CONTEXT" : "Obliterate yourself from existence",
-	"MSOBELISK_CONTEXT_CONFIRMATION" : "Are you sure?",
+	"MSOBELISK_CONTEXT" : "Arise, arise, Riders of Théoden!
+spear shall be shaken, shield shall be splintered,
+a sword-day, a red day, ere the sun rises!
+Ride now, ride now, ride! Ride for ruin and the world's ending!
+Death! Death! Death!",
+	"MSOBELISK_CONTEXT_CONFIRMATION" : "Forth Eorlingas!",
 
 	"CATEGORYCHEST_HEALING_NAME": "Chest - Healing",
 	"CATEGORYCHEST_HEALING_CONTEXT": "Open Chest - Healing",
@@ -97,7 +101,7 @@
 	"SHRINE_HEALING_USE_MESSAGE_2P": "<style=cShrine>You are embraced by the healing warmth of the Woods.</color>",
 	"SHRINE_HEALING_USE_MESSAGE": "<style=cShrine>{0} is embraced by the healing warmth of the Woods.</color>",
 	
-	"SHRINE_BLOOD_NAME": "Shrine of Blood",
+	"SHRINE_BLOOD_NAME": "Blood Money",
 	"SHRINE_BLOOD_CONTEXT": "Offer to Shrine of Blood",
 	"SHRINE_BLOOD_USE_MESSAGE_2P": "<style=cShrine>You feel a searing pain. You have gained {1} gold.</color>",
 	"SHRINE_BLOOD_USE_MESSAGE": "<style=cShrine>{0} feels a searing pain, and has gained {1} gold.</color>",
@@ -116,7 +120,7 @@
 	"SHRINE_BOSS_BEGIN_TRIAL": "<style=cShrine>Let the challenge of the Mountain... begin!</style>",
 	"SHRINE_BOSS_END_TRIAL": "<style=cShrine>Your bravery is rewarded!</style>",
 
-	"SHRINE_RESTACK_NAME": "Shrine of Order",
+	"SHRINE_RESTACK_NAME": "<style=cShrine>Elite Gamer Confirmation Station</color>",
 	"SHRINE_RESTACK_CONTEXT": "Offer to Shrine of Order",
 	"SHRINE_RESTACK_USE_MESSAGE_2P": "<style=cShrine>You have been... sequenced.</color>",
 	"SHRINE_RESTACK_USE_MESSAGE": "<style=cShrine>{0} is... sequenced.</color>",
@@ -193,12 +197,14 @@
 	"PORTAL_MYSTERYSPACE_CONTEXT": "Enter Celestial Portal",
 	"PORTAL_ARENA_NAME" : "Null Portal",
 	"PORTAL_ARENA_CONTEXT" : "Enter Null Portal",
+	"PORTAL_ARTIFACTWORLD_NAME" : "Artifact Portal",
+	"PORTAL_ARTIFACTWORLD_CONTEXT" : "Enter Artifact Portal",
 	"PORTAL_GENERIC_CONTEXT": "Enter Portal",
 	"ZIPLINE_ENTER_CONTEXT" : "Enter Quantum Tunnel",
 	"ZIPLINE_EXIT_CONTEXT" : "Exit Quantum Tunnel",
 
-	"PICKUP_LUNAR_COIN": "Lunar Coin",
-	"LUNAR_COIN_PICKUP_CONTEXT": "Pick up Lunar Coin",
+	"PICKUP_LUNAR_COIN": "<color=#FF7F7F>Moon Dubloon</color>",
+	"LUNAR_COIN_PICKUP_CONTEXT": "Pick up <color=#FF7F7F>Moon Dubloon</color>",
 	
 	"COST_NONE_FORMAT": "",
 	"COST_MONEY_FORMAT": "${0}",
@@ -208,7 +214,16 @@
 	"COST_LUNAR_FORMAT": "{0} Lunar",
 	"COST_EQUIPMENT_FORMAT": "{0} Equipment",
 	"COST_VOLATILEBATTERY_FORMAT": "{0} Fuel Array",
-	
+	"COST_ARTIFACTSHELLKILLERITEM_FORMAT" : "{0} Artifact Key",
 	"FIREBALL_VEHICLE_EXIT_CONTEXT" : "Detonate",
+
+	"ARTIFACT_TRIAL_CONTROLLER_NAME" : "Unknown Artifact",
+	"ARTIFACT_TRIAL_CONTROLLER_CONTEXT" : "Activate Unknown Artifact...?",
+
+	"PORTAL_DIALER_NAME" : "Compound Generator",
+	"PORTAL_DIALER_CONTEXT" : "Cycle Compound",
+
+	"PORTAL_DIALER_LAPTOP_NAME" : "Laptop",
+	"PORTAL_DIALER_LAPTOP_CONTEXT" : "Submit Formula",
 	}
 }
